@@ -1,0 +1,4 @@
+#!/bin/bash
+cd "_project_path_here_"
+source /Users/criss_94/.venv/env_crypto/bin/activate
+python3 planpw.py -craft $1 $2 $3

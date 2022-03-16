@@ -1,0 +1,4 @@
+#!/bin/bash
+cd "_project_path_here_"
+source ~/.venv/env_crypto/bin/activate
+python3 planpw.py -find $1
